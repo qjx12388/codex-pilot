@@ -1,10 +1,10 @@
 # codex-pilot
 
+**简体中文** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Русский](README.ru.md) | [Español](README.es.md) | [हिन्दी](README.hi.md)
+
 Codex 用法顾问 skill：把你的自然语言需求，转化为对 Codex / codex-cli 的最佳调用方式，并立即自主执行。
 
 内置离线知识库（压缩包形式随仓库分发，安装时自动解压）。Codex 加载本 skill 后，会先按主题路由查阅知识库，给出"最佳用法方案"（该用哪个功能/命令/配置/prompt 写法，附出处），然后不停顿地按方案完成你的任务。
-
-A Codex advisor skill that translates your natural-language requests into the optimal way to drive Codex / codex-cli — it advises, then executes, backed by a bundled offline knowledge pack.
 
 ## 安装 Install
 
